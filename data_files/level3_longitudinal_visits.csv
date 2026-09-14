@@ -1,0 +1,81 @@
+patient_id,visit_number,visit_date,treatment_group,site_id,systolic_bp,diastolic_bp,weight_kg,adverse_event,notes
+P0001,1,2024-01-15,Placebo,Site_B,154,98,83,No,
+P0001,2,2024-02-14,Placebo,Site_B,155,99,82,No,No complaints
+P0001,3,2024-03-15,Placebo,Site_B,153,98,83,No,Tolerating well
+P0001,4,2024-04-14,Placebo,Site_B,153,98,84,No,No complaints
+P0002,1,2024-01-15,Drug,Site_B,139,79,93,No,No complaints
+P0002,2,2024-02-14,Drug,Site_B,136,78,93,Yes,
+P0002,3,2024-03-15,Drug,Site_B,132,76,92,No,
+P0003,1,2024-01-15,Drug,Site_A,137,88,87,No,
+P0003,2,2024-02-14,Drug,Site_A,132,86,87,No,Tolerating well
+P0003,3,2024-03-15,Drug,Site_A,127,84,88,No,Tolerating well
+P0003,4,2024-04-14,Drug,Site_A,122,82,88,No,Tolerating well
+P0004,1,2024-01-15,Placebo,Site_C,160,85,72,No,
+P0004,2,2024-02-14,Placebo,Site_C,159,85,71,No,
+P0004,3,2024-03-15,Placebo,Site_C,159,85,70,No,
+P0005,1,2024-01-15,Drug,Site_A,128,89,77,No,Missed dose earlier this week
+P0005,2,2024-02-14,Drug,Site_A,124,87,78,No,Tolerating well
+P0006,1,2024-01-15,Drug,Site_B,127,89,85,No,No complaints
+P0006,2,2024-02-14,Drug,Site_B,123,87,84,Yes,No complaints
+P0006,3,2024-03-15,Drug,Site_B,120,86,84,Yes,Slight dizziness noted
+P0006,4,2024-04-14,Drug,Site_B,117,85,83,No,No complaints
+P0007,1,2024-01-15,Drug,Site_B,145,93,71,No,
+P0007,2,2024-02-14,Drug,Site_B,143,92,71,Yes,No complaints
+P0007,3,2024-03-15,Drug,Site_B,138,90,71,No,
+P0008,1,2024-01-15,Placebo,Site_A,132,83,77,No,Mild headache reported
+P0008,2,2024-02-14,Placebo,Site_A,133,84,78,No,No complaints
+P0008,3,2024-03-15,Placebo,Site_A,131,83,78,No,
+P0008,4,2024-04-14,Placebo,Site_A,132,84,78,No,
+P0009,1,2024-01-15,Placebo,Site_C,136,82,72,Yes,Mild headache reported
+P0009,2,2024-02-14,Placebo,Site_C,134,81,71,No,Slight dizziness noted
+P0009,3,2024-03-15,Placebo,Site_C,135,82,72,No,Missed dose earlier this week
+P0009,4,2024-04-14,Placebo,Site_C,136,83,73,No,
+P0010,1,2024-01-15,Placebo,Site_B,136,86,90,No,Tolerating well
+P0010,2,2024-02-14,Placebo,Site_B,136,86,89,No,No complaints
+P0010,3,2024-03-15,Placebo,Site_B,134,85,90,No,
+P0010,4,2024-04-14,Placebo,Site_B,134,85,91,No,Missed dose earlier this week
+P0011,1,2024-01-15,Drug,Site_B,126,80,74,No,
+P0011,2,2024-02-14,Drug,Site_B,121,78,74,No,Mild headache reported
+P0011,3,2024-03-15,Drug,Site_B,119,77,74,No,
+P0012,1,2024-01-15,Drug,Site_B,152,95,86,No,Tolerating well
+P0012,2,2024-02-14,Drug,Site_B,148,93,86,Yes,
+P0012,3,2024-03-15,Drug,Site_B,146,92,85,No,Mild headache reported
+P0013,1,2024-01-15,Placebo,Site_A,143,94,94,No,Tolerating well
+P0013,2,2024-02-14,Placebo,Site_A,144,95,95,No,
+P0013,3,2024-03-15,Placebo,Site_A,142,94,95,No,No complaints
+P0014,1,2024-01-15,Drug,Site_B,150,79,61,No,No complaints
+P0014,2,2024-02-14,Drug,Site_B,147,78,62,No,
+P0015,1,2024-01-15,Drug,Site_C,140,79,94,Yes,No complaints
+P0015,2,2024-02-14,Drug,Site_C,135,77,95,No,
+P0015,3,2024-03-15,Drug,Site_C,133,76,96,No,
+P0015,4,2024-04-14,Drug,Site_C,131,75,97,No,No complaints
+P0016,1,2024-01-15,Placebo,Site_B,148,96,79,Yes,
+P0016,2,2024-02-14,Placebo,Site_B,149,97,78,No,
+P0016,3,2024-03-15,Placebo,Site_B,150,98,78,No,Tolerating well
+P0016,4,2024-04-14,Placebo,Site_B,149,98,78,No,Missed dose earlier this week
+P0017,1,2024-01-15,Placebo,Site_B,157,98,71,No,Missed dose earlier this week
+P0017,2,2024-02-14,Placebo,Site_B,157,98,72,No,Tolerating well
+P0017,3,2024-03-15,Placebo,Site_B,156,98,73,No,No complaints
+P0017,4,2024-04-14,Placebo,Site_B,157,99,73,No,
+P0018,1,2024-01-15,Drug,Site_C,154,80,93,No,
+P0018,2,2024-02-14,Drug,Site_C,150,78,93,No,Missed dose earlier this week
+P0018,3,2024-03-15,Drug,Site_C,148,77,94,No,Slight dizziness noted
+P0018,4,2024-04-14,Drug,Site_C,145,76,95,No,No complaints
+P0019,1,2024-01-15,Drug,Site_B,151,95,68,No,No complaints
+P0019,2,2024-02-14,Drug,Site_B,148,94,67,No,
+P0020,1,2024-01-15,Drug,Site_A,144,92,83,No,Tolerating well
+P0020,2,2024-02-14,Drug,Site_A,139,90,82,No,
+P0020,3,2024-03-15,Drug,Site_A,135,88,81,No,No complaints
+P0021,1,2024-01-15,Placebo,Site_A,146,83,77,No,No complaints
+P0021,2,2024-02-14,Placebo,Site_A,146,83,76,No,Mild headache reported
+P0022,1,2024-01-15,Placebo,Site_A,131,96,72,No,
+P0022,2,2024-02-14,Placebo,Site_A,132,97,73,No,Slight dizziness noted
+P0022,3,2024-03-15,Placebo,Site_A,130,96,73,No,Tolerating well
+P0023,1,2024-01-15,Placebo,Site_C,153,82,59,No,Mild headache reported
+P0024,1,2024-01-15,Placebo,Site_B,151,92,86,No,
+P0024,2,2024-02-14,Placebo,Site_B,152,93,86,Yes,Tolerating well
+P0024,3,2024-03-15,Placebo,Site_B,151,93,87,No,Slight dizziness noted
+P0025,1,2024-01-15,Drug,Site_A,141,91,77,No,Slight dizziness noted
+P0025,2,2024-02-14,Drug,Site_A,136,89,76,No,Mild headache reported
+P0025,3,2024-03-15,Drug,Site_A,133,88,77,No,Slight dizziness noted
+P0025,4,2024-04-14,Drug,Site_A,130,87,77,No,
