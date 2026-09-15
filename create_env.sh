@@ -1,4 +1,4 @@
-conda create -n SparkWorkshopTest \
+conda create -n SparkWorkshop \
     -c conda-forge \
     python=3.11 \
     ipython \
