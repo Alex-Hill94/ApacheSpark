@@ -3,7 +3,6 @@ conda create -n SparkWorkshop \
     python=3.11 \
     ipython \
     numpy \
-    scipy \
     pandas \
     pyspark \
     matplotlib \

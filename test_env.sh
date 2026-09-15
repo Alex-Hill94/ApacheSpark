@@ -4,7 +4,6 @@ conda env list
 
 python -c "
 import numpy
-import scipy
 import pandas
 import pyspark
 import matplotlib
