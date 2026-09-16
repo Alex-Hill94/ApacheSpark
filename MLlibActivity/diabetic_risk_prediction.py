@@ -36,15 +36,15 @@ from pyspark.ml.evaluation import BinaryClassificationEvaluator, MulticlassClass
 spark = SparkSession.builder \
     .appName("DiabetesRiskActivity") \
     .master("local[*]") \
-    .config("spark.driver.bindAddress", "127.0.0.1") \
-    .config("spark.driver.host", "127.0.0.1") \
+#    .config("spark.driver.bindAddress", "127.0.0.1") \
+#    .config("spark.driver.host", "127.0.0.1") \
     .config("spark.sql.ansi.enabled", "false") \
     .config("spark.sql.shuffle.partitions", "8") \
     .getOrCreate()
 
 
 # ---------------------------------------------------------------------------
-# STEP 0: Read in data
+# Reading in data
 # ---------------------------------------------------------------------------
 
 path = 'diabetes_data.csv'
